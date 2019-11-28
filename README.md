@@ -3,7 +3,7 @@ A web app made in PHP and MySQL which manages the visits of the customer and not
 
 #### Set up
 1. Change the document root directory to the project directory.
-2. Import the db_user.sql file using phpMyAdmin or Command Line and make changes in connection.php file.
+2. Import the db_user.sql file using phpMyAdmin or Command Line and configure changes in connection.php file according to your database.
 3. Open the browser and enter http://localhost
 4. Login to admin account to change the host details.
 
